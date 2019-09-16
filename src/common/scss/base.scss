@@ -1,0 +1,11 @@
+@import './var.scss';
+body {
+  position: relative;
+}
+input {
+  height: 100%;
+  caret-color: $theme-color;
+  &:focus {
+    outline: none
+  }
+}

@@ -11,7 +11,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "better-scroll": "^1.10.2",
     "echarts": "^4.2.1",
     "lodash.debounce": "^4.0.8",
